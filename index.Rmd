@@ -1,7 +1,16 @@
 ---
-title: "___"
+title: "obesity"
 site: distill::distill_website
-listing: posts
+listing: 
+introduction
+article1
+article2
+article3
+article4
+article5
+article6
+article7
+conculsion
 ---
 
 ```{r, echo = FALSE, eval = FALSE}
