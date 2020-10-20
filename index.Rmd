@@ -2,15 +2,15 @@
 title: "obesity"
 site: distill::distill_website
 listing: 
-introduction
-article 1
-article 2
-article 3
-article 4
-article 5
-article 6
-article 7
-conculsion
+INTRODUCTIO
+Article 1
+Article 2
+Article 3
+Article 4
+Article 5
+Article 6
+Article 7
+  CONCLUSION
 ---
 
 ```{r, echo = FALSE, eval = FALSE}
