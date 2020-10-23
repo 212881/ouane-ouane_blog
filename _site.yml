@@ -1,14 +1,16 @@
 name: "title"
 title: "ouane_'s Blog"
 output_dir: "docs"
-navbar:
-  right:
+create_theme(name = "theme.css") 
+navbar: 
+#(color: black;)
+right:
     - text: "Home"
       href: index.html
     - text: "M.E.A.L."
       href: "posts/meal/index.html"
-    - text: "About Me"
-      href: "posts/about/index.html"
+    - text: "article 1"
+      href: "posts/article1/index.html"
     - icon: fab fa-github
       href: https://github.com/ouane/ouane_blog
 base_url: http://ouane.github.io/ouane_blog/
