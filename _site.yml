@@ -1,23 +1,18 @@
-name: "title"
+name:
 title: "ouane_'s Blog"
 output_dir: "docs"
-create_theme(name = "theme.css") 
 navbar: 
-#(color: black;)
-right:
+  right:
     - text: "Home"
       href: index.html
-    - text: "M.E.A.L."
-      href: "posts/meal/index.html"
-    - text: "article 1"
-      href: "posts/article1/index.html"
+    - text: "About"
+      href: about.html
     - icon: fab fa-github
-      href: https://github.com/ouane/ouane_blog
-base_url: http://ouane.github.io/ouane_blog/
+      href: https://github.com/ouane/ouane-ouane_blog
+base_url: http://ouane.github.io/ouane-ouane_blog-ouane/
 collections:
     posts:
+      disqus: ouane-ouane_blog
       share: [twitter, linkedin, facebook]
-      #disqus: 
 output:
-  distill::distill_article:
-    css: style.css
+  distill::distill_article
