@@ -1,9 +1,8 @@
 ---
-title: "world first study links obesity with reduced brain plasticity"
-description: |
-  A short description of the post.
+title: "world first study links obesity with       reduced brain plasticity"
+description: "Analysis of the impact of obesity on brain plasticity"
 author:
-  - name: Student Unknown
+  - name: Ouane noubissi stephanie guilene
     url: {}
   - name: Nicolas Devilez
     url: {}
@@ -14,13 +13,12 @@ output:
   distill::distill_article:
     self_contained: false
 ---
-
 # I. source of the article 
-==source==:   [(https://www.sciencedaily.com/releases/2020/09/200924101936.htm)]
+==source==: [(https://www.sciencedaily.com/releases/2020/09/200924101936.htm)]
 (september24, 2020)
 ==word count==:2345
 
-# vocabulary
+## vocabulary
 
 _____________________________________________________
 | word from text         | synonym/definition                                                          | french translation         |
@@ -37,7 +35,7 @@ _____________________________________________________
 | suffer                 | endure                                                                      | souffrir                   |
 
 
-# III. Analysis table about the study
+### III. Analysis table about the study
 
 | Researchers       | University of south Australia                                                                                                                                                                                                                                                                                      |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

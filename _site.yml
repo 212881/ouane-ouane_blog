@@ -1,18 +1,22 @@
-name:
-title: "ouane_'s Blog"
+name: "ouane-ouane_blog"
+title: "ouane‘s Blog"
 output_dir: "docs"
-navbar: 
+navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "M.E.A.L."
+      href: "posts/meal/index.html"
+    - text: "About Me"
+      href: "posts/about/index.html"
     - icon: fab fa-github
       href: https://github.com/ouane/ouane-ouane_blog
 base_url: http://ouane.github.io/ouane-ouane_blog-ouane/
 collections:
     posts:
-      disqus: ouane-ouane_blog
+      disqus: 
+      shortname: https-ouane-ouane_blog
       share: [twitter, linkedin, facebook]
 output:
-  distill::distill_article
+  distill::distill_article:
+  css: style.css
