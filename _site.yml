@@ -1,5 +1,5 @@
 name: "ouane-ouane_blog"
-title: "ouane‘s Blog"
+title: "ouane's Blog"
 output_dir: "docs"
 navbar:
   right:
