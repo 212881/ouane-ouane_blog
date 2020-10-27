@@ -18,7 +18,7 @@ output: distill::distill_article
 (september24, 2020)
 ==word count==:2345
 
-## vocabulary
+## II.vocabulary
 
 _____________________________________________________
 | word from text         | synonym/definition                                                          | french translation         |
@@ -30,7 +30,7 @@ _____________________________________________________
 | Pathway                | passage                                                                     | chemin/voie                |
 | Helath                 | fitness                                                                     | santé                      |
 | Recovery               | recuperation                                                                | récuperation               |
-| Brain plastcity        | abitlity of the brain to modify its connection or re-wire itself perception | plasticité cérébral        |
+| Brain plastcity        | abitlity of the brain to modify its connection or re-wire itself perception | plasticité cérébrale        |
 | cognition              | perception                                                                  | perception                 |
 | suffer                 | endure                                                                      | souffrir                   |
 
@@ -41,9 +41,9 @@ _____________________________________________________
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Publish in? When? | Science Daily (September 24,2020)                                                                                                                                                                                                                                                                                  |
 | General topic     | the impact of obesity on cerebral plasticity                                                                                                                                                                                                                                                                       |
-| Procedure         | -tested 15 obese people aged between 18 and 60 comparing to 15 other people in a healthy weight control group using a series of experiments involving transcranial magnetic stimulation
-- repeat stimulation to see how strongly brain respond Conclusion/Discovery| the response in the obese group was minimal   |
+| Procedure         | -tested 15 obese people aged between 18 and 60 comparing to 15 other people in a healthy weight control group using a series of experiments                         involving transcranial magnetic stimulation
+                     - repeat stimulation to see how strongly brain respond Conclusion/Discovery| the response in the obese group was minimal   |
 | Conclusion        | - obesity was associated with impairs brain function
-- these new finding suggest that losing weight is particularly important for healthy brain aged
-- the ability of brain to find pathway is crucial to recovery                                                                                                 |
+                      - these new finding suggest that losing weight is particularly important for healthy brain aged
+                      - the ability of brain to find pathway is crucial to recovery                                                                                                 |
 
