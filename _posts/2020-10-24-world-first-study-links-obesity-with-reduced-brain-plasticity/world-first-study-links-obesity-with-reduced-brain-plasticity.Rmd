@@ -14,13 +14,14 @@ output: distill::distill_article
 
 # I. Source Of The Article 
 
-==source==: [(https://www.sciencedaily.com/releases/2020/09/200924101936.htm)]
+==source==:   [(https://www.sciencedaily.com/releases/2020/09/200924101936.htm)]
 (september24, 2020)
-==word count==:2345
 
-## II. Vocabulary
+==word count==:  2345
 
-_____________________________________________________
+
+# II. Vocabulary
+___________________________________________________
 | word from text         | synonym/definition                                                          | french translation         |
 | ---------------------- | --------------------------------------------------------------------------- | -------------------------- |
 | Brain                  | it's the central organ of the human nervous system                          | cerveau                    |
@@ -35,7 +36,8 @@ _____________________________________________________
 | suffer                 | endure                                                                      | souffrir                   |
 
 
-### III. Analysis Table About The Study
+# III. Analysis Table About The Study
+
 
 | Researchers       | University of south Australia                                                                                                                                                                                                                                                                                      |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
