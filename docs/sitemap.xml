@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
     <loc>http://ouane.github.io/ouane-ouane_blog-ouane/</loc>
+<<<<<<< HEAD
     <lastmod>2020-10-27T14:01:52+01:00</lastmod>
   </url>
   <url>
@@ -23,5 +24,28 @@
   <url>
     <loc>http://ouane.github.io/ouane-ouane_blog-ouane/posts/2019-10-24-bacteria-antobiotics/</loc>
     <lastmod>2020-10-27T14:01:51+01:00</lastmod>
+=======
+    <lastmod>2020-10-27T14:40:29+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://ouane.github.io/ouane-ouane_blog-ouane/posts/about/</loc>
+    <lastmod>2020-10-27T14:40:28+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://ouane.github.io/ouane-ouane_blog-ouane/posts/meal/</loc>
+    <lastmod>2020-10-27T14:40:28+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://ouane.github.io/ouane-ouane_blog-ouane/posts/2020-10-24-world-first-study-links-obesity-with-reduced-brain-plasticity/</loc>
+    <lastmod>2020-10-27T15:09:18+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://ouane.github.io/ouane-ouane_blog-ouane/posts/2019-10-25-biggest-rodent/</loc>
+    <lastmod>2020-10-27T14:40:28+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://ouane.github.io/ouane-ouane_blog-ouane/posts/2019-10-24-bacteria-antobiotics/</loc>
+    <lastmod>2020-10-27T14:40:27+01:00</lastmod>
+>>>>>>> 0c92999f4cc2d6d76eb3c5f82fef414723217026
   </url>
 </urlset>
