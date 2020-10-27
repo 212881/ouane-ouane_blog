@@ -1,12 +1,7 @@
 ---
 title: "title"
 site: distill::distill_website
-<<<<<<< HEAD
 listing: posts
-=======
-listing: 
-
->>>>>>> 2fbc404778d5e3c04f9b5646911f80a4924deaa7
 ---
 
 ```{r, echo = FALSE, eval = FALSE}
