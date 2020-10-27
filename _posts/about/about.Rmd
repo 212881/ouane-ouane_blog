@@ -1,11 +1,10 @@
 ---
 title: "About Me"
 author:
-  - name: "___" 
+  - name: "ouane noubissi stephanie guilene" 
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
-This section must bu include a short presentation of you.
+My name is Ouane Noubissi Stephanie Guilene. I am studying biology at the University of Mons . My English tearcher`s name is Ms Ingrid Van Lancker.
 
-- first name/surname, teacher’s name, class name and academic year
