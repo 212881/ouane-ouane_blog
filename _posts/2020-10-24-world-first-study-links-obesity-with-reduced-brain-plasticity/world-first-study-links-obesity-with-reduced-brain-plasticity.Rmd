@@ -9,11 +9,11 @@ author:
   - name: Engels Guyliann
     url: https://guyliann.netlify.com/fr
 date: 10-24-2020
-output:
-  distill::distill_article:
-    self_contained: false
+output: distill::distill_article
 ---
+
 # I. source of the article 
+
 ==source==: [(https://www.sciencedaily.com/releases/2020/09/200924101936.htm)]
 (september24, 2020)
 ==word count==:2345
