@@ -17,14 +17,11 @@ output: distill::distill_article
 ==source==:   [(https://www.sciencedaily.com/releases/2020/09/200924101936.htm)]
 (september24, 2020)
 
-<<<<<<< HEAD
-## II. Vocabulary
-=======
-==word count==:  2345
->>>>>>> 0c92999f4cc2d6d76eb3c5f82fef414723217026
-
 
 # II. Vocabulary
+
+word count:  2345
+
 ___________________________________________________
 | word from text         | synonym/definition                                                          | french translation         |
 | ---------------------- | --------------------------------------------------------------------------- | -------------------------- |
@@ -43,21 +40,14 @@ ___________________________________________________
 # III. Analysis Table About The Study
 
 
-| Researchers       | University of south Australia                                                                                                                                                                                                                                                                                      |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Publish in? When? | Science Daily (September 24,2020)                                                                                                                                                                                                                                                                                  |
-<<<<<<< HEAD
-| General topic     | the impact of obesity on cerebral plasticity                                                                                                                                                                                                                                                                       |
-| Procedure         | -tested 15 obese people aged between 18 and 60 comparing to 15 other people in a healthy weight control group using a series of experiments                         involving transcranial magnetic stimulation
-                      -repeat stimulation to see how strongly brain respond Conclusion/Discovery| the response in the obese group was minimal   |
-| Conclusion        | - obesity was associated with                              impairs brain function
-                      - these new finding suggest that losing weight is particularly important for healthy brain aged
-                      - the ability of brain to find pathway is crucial to recovery                                                                                                 |
-=======
-| General topic     | The impact of obesity on cerebral plasticity                                                                                                                                                                                                                                                                       |
-| Procedure         | Tested 15 obese people aged between 18 and 60 comparing to 15 other people in a healthy                         weight control group using a series of experiments involving transcranial magnetic                               stimulation. Repeat stimulation to see how strongly brain respond.
-                             
-                                                                                                              
-| Conclusion        :          Obesity was associated with impairs brain function. These new finding suggest                                   that  losing weight is particularly important for healthy brain aged. The ability of                            brain to find pathway is crucial to recovery                                                                                                 
->>>>>>> 0c92999f4cc2d6d76eb3c5f82fef414723217026
+| Researchers       |       University of south Australia                                                              |
+| ----------------- | ------------------------------------------------------------------------------------------------ |
+| Publish in? When? |  Science Daily (September 24,2020)                                                               |
+| General topic     |    the impact of obesity on cerebral plasticity                                                  |
+| Procedure         |   -tested 15 obese people aged between 18 and 60 comparing to 15 other people in a healthy       |
+|                   |   weight control group using a series of experiments involving transcranial magnetic stimulation |
+|                   | -repeat stimulation to see how strongly brain respond                                            |
+| Conclusion        | - obesity was associated with impairs brain function                                             |
+|                   | - these new finding suggest that losing weight is particularly important for healthy brain aged  |
+|                   | - the ability of brain to find pathway is crucial to recovery                                    |
 
