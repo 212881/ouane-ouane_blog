@@ -6,5 +6,11 @@ date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
-My name is Ouane Noubissi Stephanie Guilene. I am studying biology at the University of Mons . My English tearcher`s name is Ms Ingrid Van Lancker.
+* Ouane Noubissi Stephanie Guilene
+
+* Biology sciences at the University of Mons
+
+* 2020-2021
+
+* Tearcher: Ms Ingrid Van Lancker
 
