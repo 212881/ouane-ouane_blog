@@ -1,5 +1,5 @@
 ---
-title: "world first study links obesity with       reduced brain plasticity"
+title: " Article1: World First Study Links Obesity With       Reduced Brain Plasticity"
 description: "Analysis of the impact of obesity on brain plasticity"
 author:
   - name: Ouane noubissi stephanie guilene
