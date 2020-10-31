@@ -14,9 +14,7 @@ navbar:
 base_url: http://ouane.github.io/ouane-ouane_blog-ouane/
 collections:
     posts:
-      disqus: 
-        shortname: https-ouane.github.io-ouane-ouane_blog 
-        hidenn: FALSE
+      disqus: ouanes-blog 
       share: [twitter, linkedin, facebook]
 output:
   distill::distill_article:
