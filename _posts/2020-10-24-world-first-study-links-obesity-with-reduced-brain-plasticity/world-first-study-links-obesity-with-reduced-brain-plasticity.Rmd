@@ -30,7 +30,7 @@ ___________________________________________________
 | Researchers            | experimenter                                                                | chercheurs                 |
 | cardiovascular desease | desease affecting the heart and blood vessels                               | maladies cardiovasculaires |
 | Pathway                | passage                                                                     | chemin/voie                |
-| Helath                 | fitness                                                                     | santé                      |
+| Health                 | fitness                                                                     | santé                      |
 | Recovery               | recuperation                                                                | récuperation               |
 | Brain plastcity        | abitlity of the brain to modify its connection or re-wire itself perception | plasticité cérébrale        |
 | cognition              | perception                                                                  | perception                 |
