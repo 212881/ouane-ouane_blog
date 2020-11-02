@@ -1,0 +1,53 @@
+---
+title: "Article 2: Inflammatory Gene Provides Clue To Obesity"
+description: |
+  The role of inflammatory genes in the induction of obesity
+author:
+  - name: ouane noubissi stephanie guilene
+    url: {}
+date: 11-01-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# I. Source OF The Article With Publication Date And Word
+
+* Source of the article: https://www.sciencedaily.com/releases/2020/09/200929123504.htm
+        ( September 29, 2020 )
+
+* Word count = 1918
+
+# II.Vocabulary
+
+| Word From The Text | Synonym/ Definition In English                                    | French Translation                       |
+| ------------------ | ----------------------------------------------------------------- | ---------------------------------------- |
+| Gene               | it`s the basic physical unit of heredity                          | Gène                                     |
+| Increase           | Growth                                                            | Augmenter                                |
+| Clue               | suggestion/ key                                                   | Indice                                   |
+| Mice               | it is a small rodent having a long, thin tail                     | Souris                                   |
+| Inflammation       | soreness                                                          | Inflammation                             |
+| Immune Response    | it is the reaction of an organism to an antigen                   | Réaction Immunitaire                     |
+| Average            | standard/ regular                                                 | Moyen                                    |
+| Overdrive          | a state of great activity or productivity                         | Vitesse Surmultipliee/ Surmultiplication |
+| Overwhelmed        | submerge                                                          | Submerger/Surcharger                     |
+| Damage             | injure                                                            | Dommage                                  |
+| Switch off         | turn off                                                          | Déconnecter                              |
+| Diabetes           | a disorder in which there are high levels of glucose in the blood | Diabète                                  |
+
+# III. Analysis Table About The Study
+
+| Researchers?        | University of Queensland (lead author: Dr Kaninakaran)                                      |
+| ------------------- | ------------------------------------------------------------------------------------------- |
+| published in? When? | Science Daily  (September 29,2020 )                                                         |
+| General topic       | Role of inflammatory gene in weight gain or in inducing obesity                             |
+| Procedure           |  The researchers looked at the effect of turning the inflammatory gene on and off in mice   |
+| Conclusion          | * Without gene, the mice remained at a normal weight and their risk of diabetes was reduced |
+| Conclusion          | * The mice with a normallevel of the inflammatory gene put on weight                        |
+| Discovery           | immune cells overwork in obese people causing inflammatory damage when they don't switch off  |
+
+
