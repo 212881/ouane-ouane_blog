@@ -14,13 +14,14 @@ output: distill::distill_article
 
 # I. Source Of The Article 
 
-==source==:   [(https://www.sciencedaily.com/releases/2020/09/200924101936.htm)]
+* Source:   [(https://www.sciencedaily.com/releases/2020/09/200924101936.htm)]
 (september24, 2020)
 
+* Word count:  2345
 
 # II. Vocabulary
 
-word count:  2345
+
 
 ___________________________________________________
 | word from text         | synonym/definition                                                          | french translation         |
@@ -40,7 +41,7 @@ ___________________________________________________
 # III. Analysis Table About The Study
 
 
-| Researchers       |       University of south Australia                                                              |
+| Researchers       |       University of south Australia ( lead author: Dr Brenton Hordacre)                                                             |
 | ----------------- | ------------------------------------------------------------------------------------------------ |
 | Publish in? When? |  Science Daily (September 24,2020)                                                               |
 | General topic     |    the impact of obesity on cerebral plasticity                                                  |
