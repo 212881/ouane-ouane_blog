@@ -41,7 +41,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # III. Analysis Table About The Study
 
-| Researchers?        | University of Queensland (lead author: Dr Kaninakaran)                                      |
+| Researchers?        | University of Queensland (lead author: Dr Denuja Karunakaran)                                      |
 | ------------------- | ------------------------------------------------------------------------------------------- |
 | published in? When? | Science Daily  (September 29,2020 )                                                         |
 | General topic       | Role of inflammatory gene in weight gain or in inducing obesity                             |
