@@ -1,0 +1,39 @@
+---
+title: "graphic_description"
+category: Data Sciences I
+description: |
+ Sea urchins biometry
+author:
+  - name: ouane noubissi stephanie guilene
+    url: {}
+date: 11-14-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+```{r}
+SciViews::R
+urchin <- data.io::read("urchin_bio", package = "data.io")
+
+urchin <- read("urchin_bio", package = "data.io")
+```
+
+Paracentrotus lividus or purple sea urchin is a sea urchin of the parechinidae family, found mainly in the Mediterranean but also in the eastern Atlantic oceans and up to the English Channel, from Morocco to Ireland. It feeds mainly on algae. It is gonochoric and is highly appreciated for its gustatory qualities; indeed its reproductive apparatus is edible.
+
+```{r}
+chart(urchin_bio, height~ weight %col=% origin)+
+  geom_point(na.rm = TRUE)
+```
+
+
+
+Analysis of this point cloud diagram shows us that the weight of the sea urchins is proportional to the size in both growing media; but  sea urchins farm  have weights and height larger than sea urchins provifing from fishery. for example for 50g of total weight,  sea urchins farm have a higher size than sea urchins providing from fishery.
+
+
+
+
+
