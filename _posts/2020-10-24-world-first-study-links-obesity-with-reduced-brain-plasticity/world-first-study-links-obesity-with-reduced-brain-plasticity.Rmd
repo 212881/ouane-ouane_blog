@@ -33,7 +33,7 @@ ___________________________________________________
 | Pathway                | passage                                                                     | chemin/voie                |
 | Health                 | fitness                                                                     | santé                      |
 | Recovery               | recuperation                                                                | récuperation               |
-| Brain plastcity        | abitlity of the brain to modify its connection or re-wire itself perception | plasticité cérébrale        |
+| Brain plasticity        | abitlity of the brain to modify its connection or re-wire itself perception | plasticité cérébrale        |
 | cognition              | perception                                                                  | perception                 |
 | suffer                 | endure                                                                      | souffrir                   |
 
