@@ -1,0 +1,62 @@
+---
+title: "Article3: Genetic Risk Of Developing Obesity Is Driven by Variants That Affect The Brain"
+description: |
+author:
+  - name: ouane noubissi stephanie guilene
+    url: {}
+date: 11-23-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+# I. SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD
+
+Source: https://www.sciencedaily.com/releases/2020/09/200929123437.htm
+(september 29, 2020)
+Word Count: 2697
+
+# II. VOCABULARY
+
+| Word From The Text | Synonym/ Definition In English                                                                                             | French Translation     |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
+| Further            | Faraway                                                                                                                    | Plus loin              |
+| Genome             | The complete set of genetic material of a human, animal, plant or  other living thing                                      | Génome                 |
+| Likely             | Porbably                                                                                                                   | probablement/ surement |
+| Neurons            | A specific cell in the body that are capable of sending along messages that represent feelings, commands to muscles,...ect | Neurones               |
+| Provide            | Contribute/ Supply                                                                                                         | Fournir/Apporter       |
+| Behavior           | Manner of acting                                                                                                           | Comportement           |
+| Area               | Region/Zone                                                                                                                | Région                 |
+| Discovery          | Identification                                                                                                             | Découverte             |
+| Range              | variety                                                                                                                    | Variété                |
+| Fingerprint        | Any unique or distinctive pattern that presents unambiguous evidence of specific person, substance, disease,...etc         | Empreinte              |
+| Fat cells          | Cells  in loose connective tissue that are specialized for the synthesis and storage of fat                                | Cellules Adipeuses     |
+| Intake             | Ingestion                                                                                                                  | Consommation/Rapport   |
+| Remains            | Persist                                                                                                                    | Rester                 |
+| Scientists         | Someone who conducts scientific research or investigation, in order to discover new thing...ect                            | Scientifique           |
+| Lack               | Deficiency or absence of something needed, desirable                                                                       | Manque                 |
+| Willpower          | Determination                                                                                                              | Volonté                |
+
+
+# III. ANALYSIS TABLE ABOUT THE STUDY
+
+| Researchers?         | University of Copenhagen: The Faculty of Health and Medical Sciences                                                                   |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Published in? When?  | Science Daily ( September 29, 2020)                                                                                                    |
+| General Topic        | Researchers have identified type of cells in brain that regulate memory, behavior an sensory information.                              |
+|                      | They are involved in the development of obesity which  certain people are more likely than others to develop the disease               |
+| Procedure            | - The discover was made by developing computational tools that combine two different sets of data                                      |
+|                      | - The first set(genome-whole-association) compares a person's health and physical attribute                                            |
+|                      | - The second set(single-cell RNA-sequencing) which contains the unique genetic finger print for each cell population                   |
+|                      | - The researchers integrated these data sets and had made conclusion about the result                                                  |
+| Conclusion/Discovery | * Obesity is not lack of willpower                                                                                                     |
+|                      | * A risk of developing obesity is driven by population of cells that process sensory stimuli and direct action to feeling and behavior |
+
+
+
+
+
+
