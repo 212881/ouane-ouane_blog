@@ -31,7 +31,7 @@ chart(urchin_bio, height~ weight %col=% origin)+
 
 
 
-Analysis of this point cloud diagram shows us that the weight of the sea urchins is proportional to the size in both growing media; but  sea urchins farm  have weights and height larger than sea urchins provifing from fishery. for example for 50g of total weight,  sea urchins farm have a higher size than sea urchins providing from fishery.
+Analysis of this point cloud diagram shows us that the weight of the sea urchins is proportional to the size in both growing media; but  sea urchins farm  have weights and height larger than sea urchins providing from fishery. for example for 50g of total weight,  sea urchins farm have a higher size than sea urchins providing from fishery.
 
 
 
