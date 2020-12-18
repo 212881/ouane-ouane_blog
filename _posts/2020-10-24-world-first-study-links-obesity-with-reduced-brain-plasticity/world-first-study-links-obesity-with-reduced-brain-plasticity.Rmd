@@ -17,7 +17,7 @@ output: distill::distill_article
 * Source:   [(https://www.sciencedaily.com/releases/2020/09/200924101936.htm)]
 (september24, 2020)
 
-* Word count:  2345
+* Word count:  384
 
 # II. Vocabulary
 
