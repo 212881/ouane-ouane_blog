@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Source: https://www.sciencedaily.com/releases/2020/09/200929123437.htm
 (september 29, 2020)
-Word Count: 2697
+Word Count: 503
 
 # II. VOCABULARY
 
