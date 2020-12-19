@@ -1,0 +1,57 @@
+---
+title: "Article4 : Obesity Impairs Cell Function, Accelerates Tumor Growth"
+description: |
+author:
+  - name: ouane noubissi stephanie guilene
+    url: {}
+date: 12-19-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# I.SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD
+ 
+ Source of the article: https://www.sciencedaily.com/releases/2020/12/201209115216.htm
+ Word count: 1209
+ 
+ 
+# II. VOCABULARY
+ 
+ | Word from the text | Synonym/ Definition                                                                                                           | French Translation              |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| Cancer             | It's a large family of disease that involve abnormal cell growth with the potential to invade or spread to other part of body | cancer                          |
+| Elusive            | Evasive                                                                                                                       | Evasif                          |
+| Immunotherapy      | Treatment of disease that involves the stimulation, enhancement,or desensitization of the immune,system                       | Immunotherapie                  |
+| Outcompete         | Overtake                                                                                                                      | Surpasser                       |
+| Occurs             | Happens                                                                                                                       | Survient/ Apparait              |
+| Gobble             | Consume                                                                                                                       | Engloutir                       |
+| Weapon             | Munition                                                                                                                      | Arme                            |
+| Strikingly         | Strangely                                                                                                                     | Remarquablement                 |
+| Impairs            | Decrease/ Affect                                                                                                              | Affecter                        |
+| Encountered        | Engage                                                                                                                        | Rencontrer                      |
+| Depleted           | Reduced                                                                                                                       | Epuissé                         |
+| Fuel               | Supply/ Nourish                                                                                                               | Source d'énergie/ Carburant     |
+| Insights           | understanding/ knowledge                                                                                                      | Apercu                          |
+| Roadmap            | Plan or guide to show something is arranged or can be accomplished                                                            | Plan d'action/ Feuille de route |
+| Enhance            | Improve                                                                                                                       | Améliorer                       |
+ 
+ 
+# III. ANALYSIS TABLE ABOUT THE STUDY
+
+| Researchers?        | HARVARD MEDICAL SCHOOL                                                                       |
+| ------------------- | -------------------------------------------------------------------------------------------- |
+| Published in? When? | Science Daily ( December 9, 2020)                                                            |
+| General topic       |  How obesity decrease immune cell function and accelerates tumor growth                      |
+| Procedure           | Researchers examined tumor cell development in obese and non-obese mice                      |
+| Conclusion/Discover | Tumor grows much more rapidly in animals on high-fat diets compared to those on normal diets |
+|                     | Obesity and whole-body metabolism can change how different cells in tumors utilize fuel      |
+|                     | Obesity reduced anti-tumor immunity in multiple cancer type                                  |
+
+
+
+
