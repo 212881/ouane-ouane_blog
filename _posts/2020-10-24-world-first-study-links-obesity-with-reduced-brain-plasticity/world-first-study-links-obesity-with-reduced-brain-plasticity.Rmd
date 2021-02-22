@@ -23,19 +23,27 @@ output: distill::distill_article
 
 
 
-___________________________________________________
-| word from text         | synonym/definition                                                          | french translation         |
-| ---------------------- | --------------------------------------------------------------------------- | -------------------------- |
-| Brain                  | it's the central organ of the human nervous system                          | cerveau                    |
-| Obesity                | fat                                                                         | obèse                      |
-| Researchers            | experimenter                                                                | chercheurs                 |
-| cardiovascular desease | desease affecting the heart and blood vessels                               | maladies cardiovasculaires |
-| Pathway                | passage                                                                     | chemin/voie                |
-| Health                 | fitness                                                                     | santé                      |
-| Recovery               | recuperation                                                                | récuperation               |
-| Brain plasticity        | abitlity of the brain to modify its connection or re-wire itself perception | plasticité cérébrale        |
-| cognition              | perception                                                                  | perception                 |
-| suffer                 | endure                                                                      | souffrir                   |
+| Word from the text                      | Synonym/ definition                                                                                                                    | French translation                    |
+| --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| Brain                                   | the mass of nerve tissue in the head of humans and animals that is the center of the nervous system                                    | Cerveau                               |
+| Obesity                                 | Fatness                                                                                                                                | Obesité                               |
+| Cardiovascular desease                  | disease that affects the heart and blood circulation                                                                                   | Maladie cardiovasculaire              |
+| Health                                  | fitness                                                                                                                                | santé                                 |
+| Pathway                                 | Passage                                                                                                                                | Voie, Chemin                          |
+| Recovery                                | Recuperation, Healing                                                                                                                  | Recupération, Guérison                |
+| Brain plasticity                        | Ability of the brain to modify its connections or re-wire itself perception                                                            | Plasticité cérébrale                  |
+| Cognition                               | the mental act of learning; understanding; perception                                                                                  | Perception                            |
+| Impair                                  | Make less effective; damage                                                                                                            |  Altérer; dégrader                    |
+| Overweight                              | Person with excess body fat                                                                                                            | Surpoids; surcharge pondérale         |
+| A raft of                               | A very large number of                                                                                                                 | Une série de; une panoplie de         |
+| Dementia                                | Deterioration of mental faculties                                                                                                      | démence                               |
+| Stroke                                  | Aploplexy                                                                                                                              | Accident vasculaire cérébral          |
+| Burden                                  | Responsibility                                                                                                                         | Charge, Fardeau, Poids                |
+| Brain injury                            | Damage to cerebral area                                                                                                                | Lésion cérébrale                      |
+| Likely(that)                            | Probable                                                                                                                               | probable                              |
+| Trans-cranial magnetic stimulation(TMS) | it's a noninvasive form of brain stimulation in which a changing magnetic fields is used to cause electric current at a specific area  | Stimulation magnétique transcrânienne |
+|                                         | of the brain through electromagnetic induction                                                                                         |                                       |
+| Strongly                                | Vigorously                                                                                                                             | Vigoureusement                        |
 
 
 # III. Analysis Table About The Study
