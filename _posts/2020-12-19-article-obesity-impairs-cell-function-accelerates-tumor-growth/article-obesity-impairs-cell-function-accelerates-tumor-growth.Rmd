@@ -1,5 +1,5 @@
 ---
-title: "Article4 : Obesity Impairs Cell Function, Accelerates Tumor Growth"
+title: "Article4: Obesity Impairs Cell Function, Accelerates Tumor Growth"
 description: |
 author:
   - name: ouane noubissi stephanie guilene
@@ -16,8 +16,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # I.SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD
  
- Source of the article: https://www.sciencedaily.com/releases/2020/12/201209115216.htm
- Word count: 1209
+ Source of the article: https://www.sciencedaily.com/releases/2020/12/201209115216.htm (December9, 2020)
+ 
+ Wordcount: 1209
  
  
 # II. VOCABULARY
