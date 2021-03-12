@@ -1,0 +1,55 @@
+---
+title: "Article6: Study Links Prolonged Sedentary Time To Distractibility In Adult With Obesity, Overweight"
+description: |
+author:
+  - name: ouane noubissi stephanie guilene
+    url: {}
+date: 03-12-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+# I. SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD
+
+Source of the article: https://www.sciencedaily.com/releases/2021/02/210217132335.htm (February 17,2021)
+
+Word count: 590
+
+# II. VOCABULARY
+
+| Word From Text | Synonym/ Definition                                                                     | French Translation                   |
+| -------------- | --------------------------------------------------------------------------------------- | ------------------------------------ |
+| Track          | Follow, Chase                                                                           | Suivre, Pister                       |
+| Multitask      | Do several things at once                                                               | Faire plusieurs choses en même temps |
+| Despite        | In spite of, After all                                                                  | Malgré                               |
+| Bout           | Period, Session,Round                                                                   | Période                              |
+| Behavior       | Habit, Practice                                                                         | Comportement, Conduite               |
+| Leisure        | Free time, Time off                                                                     | Temps libre                          |
+| Gap            | time interval                                                                           | Intervalle, emploi de temps          |
+| Relate to      | Be connected with                                                                       | Se rapporter a, Avoir un lien avec   |
+| Baseline       | Guideline, Standard                                                                     | Reférence, point de comparaison      |
+| BMI            | is a value derived from the mass (weight) and height of a person                        | Indice de masse corprelle            |
+| EEG            | is an electrophysiological monitoring method to record electrical activity of the brain | Electro-encéphalogramme              |
+| Focus          | Attention, Accent                                                                       | Interêt, Attention                   |
+| Switch         | Substitute, Exchange                                                                    | Echanger, Intervertir                |
+| Accuracy       | Exactness, Correctness                                                                  | Précision, Exactitude                |
+| Speed          | Velocity, Quickness                                                                     | Vitesse                              |
+| To break up    | Separation, Cleavage                                                                    | Séparation                           |
+| Silling time   | Session, Appointement                                                                   | Activité en position assise          |
+
+# III. ANALYSIS TABLE ABOUT THE STUDY
+
+| Researchers?         | University of Illinois at Urbana-champaign, News bureau( Head researcher: professor Dominika Pindus)                                |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Published in? when?  |  Science Daily ( February 17, 2021)                                                                                                 |
+| General Topic        | Measure the ability of adults with obesity or overweight to maintain their attention in spite off distractions in a series of tests |
+| Procedure            | * Before the tests, researchers measured the cognitive ability for all the participants and calculated their BMI                    |
+|                      | * Participants had to wear accelerometers on their waist for seven days                                                             |
+|                      | * After that, they completed cognitive tasks and their brain function was measure in a laboratory setting with EEG                  |
+|                      | * They analysed the result and found a link between sedentarisness and obesity or overweight                                        |
+| Conclusion/Discovery | * People who spent more time in prolonged sedentary bouts were easily distracted                                                    |
+|                      | * people with obesity or overweight didn't do as well on certain types of cognitive tasks                                           |
