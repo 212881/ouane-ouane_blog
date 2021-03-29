@@ -1,0 +1,65 @@
+---
+title: "article7:Infants In Households With Very Low Food Security May Have Greater Obesity Risk"
+description: how feed could increase obesity risk in households' infants
+author:
+  - name: ouane noubissi stephanie guilene
+    url: {}
+date: 03-29-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+# SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD
+
+Source of the article : https://www.sciencedaily.com/releases/2020/08/200828122727.htm (August 28, 2020) 
+
+Word count: 590
+
+# VOCABULARY
+
+| Word From Text | Synonym/Definition                 | French Translation              |
+| -------------- | ---------------------------------- | ------------------------------- |
+| Track          | Follow, Hunt                       | Suivre                          |
+| Household      | Domestic establishment,  Homestead | Foyer, Maisonnée                |
+| Led            | Head, Guide, Control               | Guider, Conduire                |
+| Overfeeding    | Overfill, Statiate                 | Suralimentation                 |
+| Hazardous      | Risky, Dangerous                   | Dangereux, Harzardeux           |
+| Lower-income   | Poverty                            | Economiquement faible           |
+| Income         | Salary, revenue,Pay                | Revenu                          |
+| Relevant       | Pertinent, Applicable              | pertinent, Compétent            |
+| Widespread     | Ubiquitous, Extensive              | Repandu, Generalisé             |
+| Due to         | Bacause of, Owing to               | à cause de                      |
+| Whereas        | While, But, Then again             | En raison de, Tandis que, Alors |
+| Heavy          | Ponderous, Massive, Hard to carry  | Lourd                           |
+| Override       | Outweigh, Come before              | Outrepasser, dépasser           |
+| Cue            | Signal, Reminder, Indication       | Replique, Signal                |
+| Whether        | If                                 | Si                              |
+| Marginal       | Limited, Insignificant, Negligible | Insignifiant, Minime            |
+| Fullness       | Saturation, Abundance              | Abondance                       |
+| Although       | Despite, In spite of the fact that | Bien que, Quoique               |
+| Prop           | Mainstay, Support, Brace           | Poser,  Pilier                  |
+| Assess         | Evaluate, Rate                     | Jauger, Estimer                 |
+
+
+
+# ANALYSIS TABLE ABOUT THE STUDY
+
+
+| Researchers?        | John Hopkins University Bloomberg School of public Health(  Sara Benjamin-Neelon, PhD, JD, the Helaine and Sidney Lerner Associate Professor)                                                                                                       |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Published in? When? | Science Daily, August 28, 2020                                                                                                                                                                                                                      |
+| General Topic       | How low feed security could increase obesity risk in household                                                                                                                                                                                      |
+| Procedure           | * Researchers examined 700 infants in North Carolina over their first year of life with regular interviews of the infants' mothers                                                                                                                  |
+|                     | * They visited the homes of the infants when they were 3,6,9 and 12 months old and interviewed the mothers by phone on additional eight times over the year                                                                                         |
+|                     | * They compared the weight and length of infants in the study to a global population of healthy infants from eight countries to determine " at risk of overweight"                                                                                  |
+| Conclusion          | They found that infants from households categorized as low and very low food security tended to move into overweight risk category over the 3-month visit to the 12-month visit period                                                              |
+|                     | whereas infants from households with high and marginal food security and those with moderate access to adequate, healthy food tended to move out of this category                                                                                   |
+|                     | Infants in households with low and very low food security also were generally more likely (1.72 and 1.55 times more likely) to be at risk of overweight                                                                                             |
+|                     | infants from very low food security households were significantly heavier by comparison with infants from food-secure households, and had more fat accumulation by standard caliper-based measures                                                  |
+|                     | Researchers found that when mothers reported very low food security per a standard government questionnaires, infants were more likely to have above-average body mass index, higher fat levels and others measures indicating greater obesity risk |
+| Dicscovery          | food insecurity is associated with lower quality diets that promote obesity                                                                                                                                                                         |
+
