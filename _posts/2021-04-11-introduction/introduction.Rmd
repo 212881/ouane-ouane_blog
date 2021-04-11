@@ -1,0 +1,23 @@
+---
+title: "INTRODUCTION"
+description: |
+  A short description of obesity .
+author:
+  - name: ouane noubissi stephanie guilene
+    url: {}
+date: 04-11-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Obesity is an abnormal or excessive fat accumulation that may impair health. It is part of the group of non-transmissible diseases that is the leading cause of death in the world (2016, WHO) . it is the reason why I chose this theme because I wanted to have much information about this disease. Obesity is related to population with a body mass index greater than 30. It has several direct and indirect ones that can range from food quality to genetic predispositions.  In my blog I've had analysed seven articles that all deal with obesity on different aspects and you'll see by reading articles that obesity doesn't just matter to a bad diet as a lot of people think.  We will also see that obesity can have an impact on different part of our body such as brain plasticity to the development and acceleration of tumours. 
+
+
+
+word count: 146
+
