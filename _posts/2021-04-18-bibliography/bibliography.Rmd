@@ -1,0 +1,57 @@
+---
+title: "BIBLIOGRAPHY"
+description: 
+author:
+  - name: ouane noubissi stephanie guilene
+    url: {}
+date: 04-18-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## SOURCES OF ARTICLE 1
+
+Link of the article: https://www.sciencedaily.com/releases/2020/09/200924101936.htm (september24, 2020)
+
+Source of  definition/translation used in the vocabulary section: https://www.wordreference.com/fr/
+
+## SOURCES OF ARTICLE 2
+
+Link of the article:  https://www.sciencedaily.com/releases/2020/09/200929123504.htm ( September 29, 2020 )
+
+Source of  definition/translation used in the vocabulary section: https://www.wordreference.com/fr/
+
+## SOURCES OF ARTICLE 3
+
+Link of the article: https://www.sciencedaily.com/releases/2020/09/200929123437.htm (september 29, 2020)
+
+Source of  definition/translation used in the vocabulary section: https://www.wordreference.com/fr/
+
+## SOURCES OF ARTICLE 4
+
+Link of the article:  https://www.sciencedaily.com/releases/2020/12/201209115216.htm (December9, 2020)
+
+Source of  definition/translation used in the vocabulary section: https://www.wordreference.com/fr/
+
+## SOURCES OF ARTICLE 5
+
+Link of the article: https://www.sciencedaily.com/releases/2020/09/200916094240.htm (september 16, 2020)
+
+Source of  definition/translation used in the vocabulary section: https://www.wordreference.com/fr/
+
+## SOURCES OF ARTICLE 6
+
+Link of the article: https://www.sciencedaily.com/releases/2021/02/210217132335.htm (February 17,2021)
+
+Source of  definition/translation used in the vocabulary section: https://www.wordreference.com/fr/
+
+## SOURCES OF ARTICLE 7
+
+Link of the article: https://www.sciencedaily.com/releases/2020/08/200828122727.htm (August 28, 2020)
+
+Source of  definition/translation used in the vocabulary section: https://www.wordreference.com/fr/
