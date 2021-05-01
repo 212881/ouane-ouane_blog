@@ -50,6 +50,6 @@ Word count: 590
 | Procedure            | * Before the tests, researchers measured the cognitive ability for all the participants and calculated their BMI                    |
 |                      | * Participants had to wear accelerometers on their waist for seven days                                                             |
 |                      | * After that, they completed cognitive tasks and their brain function was measure in a laboratory setting with EEG                  |
-|                      | * They analysed the result and found a link between sedentarisness and obesity or overweight                                        |
+|                      | * They analysed the result and found a link between sedentariness and obesity or overweight                                        |
 | Conclusion/Discovery | * People who spent more time in prolonged sedentary bouts were easily distracted                                                    |
 |                      | * people with obesity or overweight didn't do as well on certain types of cognitive tasks                                           |
